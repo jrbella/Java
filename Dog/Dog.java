@@ -1,7 +1,7 @@
 package Dog;
 
 public class Dog {
-    int size;S
+    int size;
     String breed;
     String name;
 
