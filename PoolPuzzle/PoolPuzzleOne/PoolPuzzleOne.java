@@ -1,4 +1,4 @@
-public class PoolPuzzle {
+public class PoolPuzzleOne {
     public static void main(String[] args) {
 
         //Expected Output
