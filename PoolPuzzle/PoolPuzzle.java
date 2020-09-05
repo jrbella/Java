@@ -15,7 +15,7 @@ public class PoolPuzzle {
                 System.out.print(" ");
             }
             System.out.print("n");
-
+ 
             if(x > 1){
 
                 System.out.print(" oyster");
